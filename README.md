@@ -1,0 +1,53 @@
+# 🎁 Amigo Secreto
+
+Este proyecto es una aplicación web sencilla para gestionar una lista de amigos y seleccionar uno de forma aleatoria, ideal para jugar al "Amigo Secreto".
+
+## 📌 Características
+- Añadir amigos a una lista.
+- Visualizar los amigos añadidos.
+- Sortear un amigo secreto aleatoriamente.
+- Interfaz sencilla y atractiva.
+
+## 🛠 Tecnologías utilizadas
+- **HTML5**
+- **CSS3**
+- **JavaScript (DOM, eventos y lógica)**
+
+## 📂 Estructura del proyecto
+├── index.html # Estructura principal de la página
+├── style.css # Estilos de la aplicación
+├── app.js # Lógica de la aplicación
+└── assets/ # Imágenes y recursos
+
+
+## 🚀 Funcionalidades
+
+### 1. Agregar amigos
+- Captura el valor del campo de texto.
+- Valida que el nombre no esté vacío.
+- Añade el nombre al arreglo `amigos`.
+- Limpia el campo de entrada.
+- Actualiza la lista visible en pantalla.
+
+### 2. Mostrar lista de amigos
+- Limpia la lista antes de mostrar los nuevos elementos.
+- Recorre el arreglo `amigos` y crea un `<li>` por cada nombre.
+- Inserta los elementos en la lista HTML.
+
+### 3. Sortear amigo secreto
+- Valida que haya al menos un amigo en la lista.
+- Genera un índice aleatorio usando `Math.random()` y `Math.floor()`.
+- Muestra en pantalla el nombre sorteado.
+
+
+## 📖 Instrucciones de uso
+1. Abre el archivo `index.html` en tu navegador.
+2. Escribe un nombre en el campo de texto y presiona **"Añadir"**.
+3. Repite el paso anterior para agregar más nombres.
+4. Presiona **"Sortear amigo"** para seleccionar aleatoriamente a uno de los nombres agregados.
+5. El nombre sorteado se mostrará en pantalla.
+
+
+
+---
+💡 *Este proyecto es ideal para practicar JavaScript, manipulación del DOM y estilos con CSS.*
