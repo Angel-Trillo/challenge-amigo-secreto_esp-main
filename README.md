@@ -13,13 +13,6 @@ Este proyecto es una aplicación web sencilla para gestionar una lista de amigos
 - **CSS3**
 - **JavaScript (DOM, eventos y lógica)**
 
-## 📂 Estructura del proyecto
-├── index.html # Estructura principal de la página
-├── style.css # Estilos de la aplicación
-├── app.js # Lógica de la aplicación
-└── assets/ # Imágenes y recursos
-
-
 ## 🚀 Funcionalidades
 
 ### 1. Agregar amigos
