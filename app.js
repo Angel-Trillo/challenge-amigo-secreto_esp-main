@@ -18,14 +18,14 @@ if(entradaAmigo.value === ''){
 }
 actualizarLista();
 }
-
 function actualizarLista(){
-amigos.innerHTML = "";
-for(let i = 0; i < amigos.length; i++){
-let item = document.createElement("li");
-item.innerHTML = amigos[i];
-listaAmigos.appendChild(item);  
-}
-
-}
+  amigos.innerHTML = "";
+  for(let i = 0; i < amigos.length; i++){
+  let item = document.createElement("li");
+  item.innerHTML = amigos[i];
+  listaAmigos.appendChild(item);  
+  }
+  
+  }
+  
 
