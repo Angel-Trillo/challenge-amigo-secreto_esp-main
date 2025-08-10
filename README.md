@@ -10,7 +10,7 @@ Este proyecto es una aplicación web sencilla para gestionar una lista de amigos
 
 ## 🛠 Tecnologías utilizadas
 - **HTML5**
-- **CSS3**
+- **CSS**
 - **JavaScript (DOM, eventos y lógica)**
 
 ## 🚀 Funcionalidades
@@ -42,5 +42,3 @@ Este proyecto es una aplicación web sencilla para gestionar una lista de amigos
 
 
 
----
-💡 *Este proyecto es ideal para practicar JavaScript, manipulación del DOM y estilos con CSS.*
