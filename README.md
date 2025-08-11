@@ -44,11 +44,12 @@ Este proyecto es una aplicación web sencilla para gestionar una lista de amigos
 
 
 ## 📖 Instrucciones de uso
-1. Abre el archivo `index.html` en tu navegador.
-2. Escribe un nombre en el campo de texto y presiona **"Añadir"**.
-3. Repite el paso anterior para agregar más nombres.
-4. Presiona **"Sortear amigo"** para seleccionar aleatoriamente a uno de los nombres agregados.
-5. El nombre sorteado se mostrará en pantalla.
+1. Clona el repositorio en tu computador.
+2. Abre el archivo `index.html` en tu navegador.
+3. Escribe un nombre en el campo de texto y presiona **"Añadir"**.
+4. Repite el paso anterior para agregar más nombres.
+5. Presiona **"Sortear amigo"** para seleccionar aleatoriamente a uno de los nombres agregados.
+6. El nombre sorteado se mostrará en pantalla.
 
 
 
