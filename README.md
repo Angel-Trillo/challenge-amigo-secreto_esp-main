@@ -33,6 +33,16 @@ Este proyecto es una aplicación web sencilla para gestionar una lista de amigos
 - Muestra en pantalla el nombre sorteado.
 
 
+## 🖼️ Vista previa
+
+### Pantalla principal
+<img width="1478" height="733" alt="image" src="https://github.com/user-attachments/assets/c4848483-22b2-489d-b36c-ab8d335dcdcc" />
+
+
+### Sorteo realizado
+<img width="1438" height="807" alt="image" src="https://github.com/user-attachments/assets/20ed1905-c1ab-4f4f-a9a1-4fdf3b419f63" />
+
+
 ## 📖 Instrucciones de uso
 1. Abre el archivo `index.html` en tu navegador.
 2. Escribe un nombre en el campo de texto y presiona **"Añadir"**.
